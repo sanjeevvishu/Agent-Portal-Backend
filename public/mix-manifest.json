@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/BannerUpload.js": "/js/BannerUpload.js",
+    "/js/BannerCarousel.js": "/js/BannerCarousel.js",
+    "/js/GalleryUpload.js": "/js/GalleryUpload.js",
+    "/js/GalleryCarousel.js": "/js/GalleryCarousel.js",
+    "/js/FloorplanUpload.js": "/js/FloorplanUpload.js",
+    "/js/FloorplanCarousel.js": "/js/FloorplanCarousel.js",
+    "/js/ViewsUpload.js": "/js/ViewsUpload.js",
+    "/js/ViewsCarousel.js": "/js/ViewsCarousel.js",
+    "/css/app.css": "/css/app.css"
+}

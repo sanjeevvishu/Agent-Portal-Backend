@@ -1,0 +1,334 @@
+{
+    "gallery": [
+        {
+            "id": "01",
+            "title": "Interior",
+            "thumbnail": "assets/images/1563213803_g_s_03.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/1563213803_g_s_03.jpg",
+                    "thumb": "assets/images/1563213803_g_s_03.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/1563213803_g_s_05.jpg",
+                    "thumb": "assets/images/1563213803_g_s_05.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/1563213803_g_s_07.jpg",
+                    "thumb": "assets/images/1563213803_g_s_07.jpg"
+                },
+                {
+                    "id": "4",
+                    "big": "assets/images/1563213803_g_s_03.jpg",
+                    "thumb": "assets/images/1563213803_g_s_03.jpg"
+                },
+                {
+                    "id": "5",
+                    "big": "assets/images/1563213803_g_s_05.jpg",
+                    "thumb": "assets/images/1563213803_g_s_05.jpg"
+                },
+                {
+                    "id": "6",
+                    "big": "assets/images/1563213803_g_s_07.jpg",
+                    "thumb": "assets/images/1563213803_g_s_07.jpg"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "title": "Exterior",
+            "thumbnail": "assets/images/1563213803_g_s_05.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/1563213803_g_s_03.jpg",
+                    "thumb": "assets/images/1563213803_g_s_03.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/1563213803_g_s_05.jpg",
+                    "thumb": "assets/images/1563213803_g_s_05.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/1563213803_g_s_07.jpg",
+                    "thumb": "assets/images/1563213803_g_s_07.jpg"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "title": "Amenity",
+            "thumbnail": "assets/images/1563213803_g_s_07.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/1563213803_g_s_03.jpg",
+                    "thumb": "assets/images/1563213803_g_s_03.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/1563213803_g_s_05.jpg",
+                    "thumb": "assets/images/1563213803_g_s_05.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/1563213803_g_s_07.jpg",
+                    "thumb": "assets/images/1563213803_g_s_07.jpg"
+                }
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "id": "04",
+            "title": "one bed room",
+            "thumbnail": "assets/images/layout/three_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        },
+        {
+            "id": "05",
+            "title": "two bed room",
+            "thumbnail": "assets/images/layout/two_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        },
+        {
+            "id": "06",
+            "title": "three bed room",
+            "thumbnail": "assets/images/layout/three_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        },
+        {
+            "id": "07",
+            "title": "four bed room",
+            "thumbnail": "assets/images/layout/three_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        },
+        {
+            "id": "08",
+            "title": "five bed room",
+            "thumbnail": "assets/images/layout/two_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        },
+        {
+            "id": "09",
+            "title": "six bed room",
+            "thumbnail": "assets/images/layout/two_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "title": "seven bed room",
+            "thumbnail": "assets/images/layout/three_bed.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "images": [
+                {
+                    "id": "1",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                },
+                {
+                    "id": "2",
+                    "big": "assets/images/layout/two_bed.jpg",
+                    "thumb": "assets/images/layout/two_bed.jpg"
+                },
+                {
+                    "id": "3",
+                    "big": "assets/images/layout/three_bed.jpg",
+                    "thumb": "assets/images/layout/three_bed.jpg"
+                }
+            ]
+        }
+    ],
+    "videos": [
+        {
+            "id": "11",
+            "title": "https://www.youtube.com/embed/Yrs4i6YTXoI",
+            "thumbnail": "assets/images/1563296906_g_r_04.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "videolink": "https://www.youtube.com/embed/Yrs4i6YTXoI"
+        },
+        {
+            "id": "12",
+            "title": "https://www.youtube.com/embed/Yrs4i6YTXoI",
+            "thumbnail": "assets/images/1563296906_g_r_04.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "videolink": "https://www.youtube.com/embed/Yrs4i6YTXoI"
+        },
+        {
+            "id": "13",
+            "title": "https://www.youtube.com/embed/Yrs4i6YTXoI",
+            "thumbnail": "assets/images/1563296906_g_r_04.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "videolink": "https://www.youtube.com/embed/Yrs4i6YTXoI"
+        }
+    ],
+    "view": [
+        {
+            "id": "14",
+            "title": "1563294720_R_7B.jpg",
+            "thumbnail": "assets/images/view/1563294720_R_7B.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/view/1563294720_R_7B.jpg"
+        },
+        {
+            "id": "15",
+            "title": "1563213983_S_C.jpg",
+            "thumbnail": "assets/images/view/1563213983_S_C.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/view/1563213983_S_C.jpg"
+        },
+        {
+            "id": "16",
+            "title": "1563213983_S_8D.jpg",
+            "thumbnail": "assets/images/view/1563213983_S_8D.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/view/1563213983_S_8D.jpg"
+        },
+        {
+            "id": "17",
+            "title": "1563213983_S_2B.jpg",
+            "thumbnail": "assets/images/view/1563213983_S_2B.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/view/1563213983_S_2B.jpg"
+        }
+    ],
+    "masterlayout": [
+        {
+            "id": "18",
+            "title": "Master Layout 1",
+            "thumbnail": "assets/images/masterlayout/master1.png",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/masterlayout/master1.png"
+        },
+        {
+            "id": "19",
+            "title": "Master Layout 2",
+            "thumbnail": "assets/images/masterlayout/master2.png",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/masterlayout/master2.png"
+        },
+        {
+            "id": "20",
+            "title": "Master Layout 3",
+            "thumbnail": "assets/images/masterlayout/master3.jpg",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/masterlayout/master3.jpg"
+        },
+        {
+            "id": "21",
+            "title": "Master Layout 4",
+            "thumbnail": "assets/images/masterlayout/master4.png",
+            "placeholder":"assets/images/progress_image_placeholder.jpg",
+            "thumb": "assets/images/masterlayout/master4.png"
+        }
+    ]
+}
